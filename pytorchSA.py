@@ -3,6 +3,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 # https://stackoverflow.com/questions/66854921/legacy-torchtext-0-9-0
+
 from torchtext.legacy import data
 from torchtext.legacy import datasets
 
